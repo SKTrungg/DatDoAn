@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+  <!-- Chicken Drumstick Meat -->
+  <path
+      android:fillColor="#FF8F00"
+      android:pathData="M13.5,4C10,4 7,7 7,10.5c0,1.8 0.7,3.4 1.9,4.6L6,18l1.5,1.5 2.9,-2.9c1.2,1.2 2.8,1.9 4.6,1.9 3.5,0 6.5,-3 6.5,-6.5S17,4 13.5,4z"/>
+  <!-- Crispy texture -->
+  <path
+      android:fillColor="#FFC107"
+      android:pathData="M11,7c-1.5,1.5 -1.5,3.5 0,5s3.5,1.5 5,0c-1.5,-1.5 -1.5,-3.5 -5,-5z"/>
+  <!-- Bone -->
+  <path
+      android:fillColor="#E0E0E0"
+      android:pathData="M4,19.5m-1.5,0a1.5,1.5 0 1,0 3,0a1.5,1.5 0 1,0 -3,0"/>
+  <path
+      android:fillColor="#E0E0E0"
+      android:pathData="M5.5,21m-1.5,0a1.5,1.5 0 1,0 3,0a1.5,1.5 0 1,0 -3,0"/>
+  <path
+      android:fillColor="#E0E0E0"
+      android:pathData="M5,18.5l2,2 -1,1 -2,-2z"/>
+</vector>

@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+  <!-- Bowl -->
+  <path
+      android:fillColor="#E0E0E0"
+      android:pathData="M3,11c0,5 4,9 9,9s9,-4 9,-9H3z"/>
+  <!-- Bowl Base -->
+  <path
+      android:fillColor="#9E9E9E"
+      android:pathData="M8,20h8v1H8z"/>
+  <!-- Noodle Soup -->
+  <path
+      android:fillColor="#FFB74D"
+      android:pathData="M3.5,11c0,0.5 8.5,-2 17,0H3.5z"/>
+  <!-- Noodles -->
+  <path
+      android:fillColor="#FFE082"
+      android:pathData="M6,7c0,3 1,4 1,4s1,-1 1,-4M9,6c0,3 1,5 1,5s1,-2 1,-5M12,7c0,3 1,4 1,4s1,-1 1,-4M15,6c0,3 1,5 1,5s1,-2 1,-5"/>
+  <!-- Chopsticks -->
+  <path
+      android:fillColor="#795548"
+      android:pathData="M4,3l16,6l-0.5,1L3.5,4zM4,5l16,6l-0.5,1L3.5,6z"/>
+  <!-- Egg topping -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M15,13m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0"/>
+  <path
+      android:fillColor="#FF9800"
+      android:pathData="M15,13m-1.2,0a1.2,1.2 0 1,0 2.4,0a1.2,1.2 0 1,0 -2.4,0"/>
+</vector>

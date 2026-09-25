@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+  <!-- Box -->
+  <path
+      android:fillColor="#D32F2F"
+      android:pathData="M6,9l1.5,12h9L18,9H6z"/>
+  <path
+      android:fillColor="#E53935"
+      android:pathData="M6,9c0,0 6,3 12,0v3c-6,3 -12,0 -12,0V9z"/>
+  <!-- French Fries -->
+  <path
+      android:fillColor="#FFC107"
+      android:pathData="M7,3h2v7H7zM10,2h2v8h-2zM13,3h2v7h-2zM16,4h2v6h-2zM8.5,4h1.5v6H8.5zM14.5,2.5h1.5v7.5H14.5z"/>
+</vector>

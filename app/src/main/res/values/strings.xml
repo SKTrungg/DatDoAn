@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Đặt Đồ Ăn</string>
+    <string name="header_title">🍔 Đặt Đồ Ăn</string>
+    <string name="header_subtitle">Thỏa sức lựa chọn món ăn ưa thích của bạn!</string>
+    <string name="search_hint">Nhập tên món ăn (ví dụ: pizza, hamburger)</string>
+    <string name="search_button">Tìm kiếm</string>
+    <string name="no_results">Không tìm thấy món ăn phù hợp.</string>
+    <string name="view_detail">Xem chi tiết</string>
+    <string name="ingredients_title">Thành phần</string>
+    <string name="quantity_title">Số lượng</string>
+    <string name="total_price_title">Thành tiền</string>
+    <string name="btn_order">Đặt món</string>
+    <string name="order_success">Đặt món thành công!</string>
+    <string name="order_success_desc">Cảm ơn bạn đã đặt món tại cửa hàng!</string>
+    <string name="all_category">Tất cả</string>
+    <string name="food_image_desc">Hình món ăn</string>
+    <string name="back_button_desc">Quay lại</string>
+    <string name="clear_button_desc">Xóa từ khóa</string>
+    <string name="search_title">Tìm kiếm món ăn</string>
+    <string name="detail_title">Chi tiết món ăn</string>
+    <string name="decrease_quantity_desc">Giảm số lượng</string>
+    <string name="increase_quantity_desc">Tăng số lượng</string>
+</resources>
